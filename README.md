@@ -10,4 +10,6 @@ Currently combined modules:
 
 More (like hugo-pwa, hugo-netlification, hugo-feeds, hugo-auditor) will follow. 
 
+Also included are [hugo-functions](https://github.com/davidsneighbour/hugo-functions) and [hugo-debug](https://github.com/davidsneighbour/hugo-debug) for development reasons.
+
 Use the issue section for ideas, concerns, thoughts. 
